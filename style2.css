@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.clear {
+	clear: both;
+}
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+.top-header {
+	background-color: green;
+}
+.logo {
+	width: 330px;
+	float: left;
+	padding-top: 8px;
+	text-transform: capitalize;
+}
+.top-menu {
+	width: 670px;
+	float: left;
+}
+.top-menu ul {
+	list-style: none;
+}
+.top-menu li {
+	display: inline-block;
+	margin: 10px;
+	text-transform: capitalize;
+}
+.top-menu a {
+	font-size: 14px;
+	text-decoration: none;
+	color: white;
+}
+.bg-image {
+	background-image: url(Sensor-Sweep-HD-Podcast-Header.jpg);
+	background-size: 100%;
+}
