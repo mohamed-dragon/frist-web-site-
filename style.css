@@ -1,0 +1,389 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+.top-header {
+	background-color: #f28858;
+	border-bottom: 5px solid #d57959;
+}
+.logo {
+	width: 330px;
+	float: left;
+	padding: 10px;
+	padding-top: 10px;
+}
+.top-menu {
+	width: 670px;
+	float: left;
+}
+.clear {
+	clear: both;
+}
+.top-menu ul {
+	list-style: none;
+	text-transform: capitalize;
+}
+.top-menu a {
+	color: white;
+	text-decoration: none;
+	font-size: 14px;
+}
+.top-menu li {
+	display: inline-block;
+	margin: 10px;
+}
+.slide-show  {
+	
+	width: 100%;
+	position: relative;
+	height: 300px;
+	background-image: url(twitter-header-2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+.welcome{
+	width: 400px;
+	margin: 0 35%;
+	padding-top: 100px;
+}
+.text-slide h1 {
+	text-align: center;
+	color: #f28858;
+	
+}
+.btn-slide {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 1% 45%;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-bottom: 2px solid #576f6f;
+}
+
+
+.radio-slide{
+	margin: 5% 47%;
+
+}
+.services1 {
+	width: 1000px;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+.text-service {
+	margin: 20px auto;
+	color: #f28858;
+	text-align: center;
+}
+.iconleft {
+	float: left;
+	width: 30px;
+	height: 30px;
+}
+.para {
+	float: left;
+	width: 940px;
+	text-align: center;
+}
+.iconright {
+	float: left;
+	width: 30px;
+	height: 30px;
+}
+.hosting {
+	width: 1000px;
+	margin: 0 auto;
+}
+.host1 {
+	float: left;
+	margin: 0 30px;
+}
+.host1 h2,
+p {
+	text-align: center;
+}
+.host1 h2 {
+	color: #f28858;
+}
+.host2 h2 {
+	color: #f28858;
+}
+.host3 h2 {
+	color: #f28858;
+}
+.host1 img {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	border: 10px solid #f28858;
+}
+.host2 {
+	float: left;
+	margin: 0 30px;
+}
+.host2 img {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	border: 10px solid #f28858;
+}
+.host2 h2,
+p {
+	text-align: center;
+}
+.host3 {
+	margin: 0 30px;
+	float: left;
+}
+.host3 img {
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	border: 10px solid #f28858;
+}
+.host3 h2,
+p {
+	text-align: center;
+}
+.btn-host1 {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 70px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-bottom: 2px solid #576f6f;
+}
+.btn-host2 {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 70px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-bottom: 2px solid #576f6f;
+}
+.btn-host3 {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 70px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-bottom: 2px solid #576f6f;
+}
+.clear-hosting {
+	clear: both;
+}
+.team-text {
+	text-align: center;
+	margin-top: 20px;
+	padding-bottom: 20px;
+	color: #f28858;
+}
+.icons {
+	width: 1000px;
+	margin: 0 auto;
+	padding-top: 20px;
+}
+.iconletf-team {
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin: 30px auto;
+}
+.iconrigt-team {
+	float: left;
+	width: 60px;
+	height: 60px;
+	margin: 30px auto;
+}
+.man1 {
+	float: left;
+	margin: 0 5%;
+	
+}
+.man2 {
+	float: left;
+	margin: 0 5%;
+	
+}
+.man3 {
+	float: left;
+	margin: 0 5%;
+}
+.btn-man1 {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 20px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-bottom: 2px solid #576f6f;
+}
+.btn-man2 {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 20px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-bottom: 2px solid #576f6f;
+}
+.btn-man3 {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 20px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-bottom: 2px solid #576f6f;
+}
+.clear-mans {
+	clear: both;
+}
+.gallery {
+	width: 1000px;
+	margin: 0 auto;
+}
+.text-gallery {
+	text-align: center;
+	color: #f28858;
+	padding-top: 50px;
+}
+.para-gallery {
+	text-align: center;
+	padding-top: 10px;
+}
+.serv {
+	margin: 0 40%;
+	display: inline;
+}
+.btn-serv1 {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 5px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-bottom: 2px solid #576f6f;
+}
+.btn-serv2 {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 5px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-bottom: 2px solid #576f6f;
+}
+.btn-serv3 {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 5px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-bottom: 2px solid #576f6f;
+}
+.btn-serv4 {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 5px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-bottom: 2px solid #576f6f;
+}
+.picture {
+	width: 1000px;
+	margin: 0 10%;
+	padding-top: 20px;
+}
+.pic1 {
+	float: left;
+	padding-left: 10px;
+}
+.pic2 {
+	float: left;
+	padding-left: 10px;
+}
+.pic3 {
+	float: left;
+	padding-left: 10px;
+}
+.pic4 {
+	float: left;
+	padding-left: 10px;
+}
+.clear-pic {
+	clear: both;
+}
+.form-log {
+	width: 1000px;
+	margin: 50px auto;
+}
+.user-name {
+	width: 300px;
+	height: 30px;
+	border: 2px solid #576f6f;
+	margin-top: 10px;
+	text-transform: capitalize;
+}
+.mail-log {
+	width: 300px;
+	height: 30px;
+	border: 2px solid #576f6f;
+	margin-top: 10px;
+	text-transform: capitalize;
+}
+.text-area {
+	width: 300px;
+	height: 150px;
+	margin-top: 10px;
+	border: 2px solid #576f6f;
+	text-transform: capitalize;
+}
+.contener {
+	text-align: center;
+	color: #f28858;
+}
+.end-btn {
+	text-transform: capitalize;
+	font-size: 12pt;
+	color: #ffffff;
+	background-color: #77a1a0;
+	margin: 5% 20%;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-bottom: 2px solid #576f6f;
+}
+.footer {
+	width: 100%;
+	height: 100%;
+	background-color: #f28858;
+	border-top-color: 5px solid #d57950;
+	display: block;
+}
+.copyrights {
+	padding: 0 50%;
+	font-size: 30px;
+}	
